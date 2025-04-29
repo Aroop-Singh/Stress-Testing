@@ -1,0 +1,9 @@
+pandas==2.2.3
+selenium==4.31.0
+matplotlib==3.10.1
+Flask==3.1.0
+numpy==2.2.5
+pygame==2.6.1
+locust==2.36.2
+fastapi==0.115.12
+pyantic==2.11.3
